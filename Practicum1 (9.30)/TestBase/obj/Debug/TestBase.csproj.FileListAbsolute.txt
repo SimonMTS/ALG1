@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\Practicum1\TestBase\bin\Debug\TestBase.dll
+C:\Users\simon\source\repos\Practicum1\TestBase\bin\Debug\TestBase.pdb
+C:\Users\simon\source\repos\Practicum1\TestBase\bin\Debug\nunit.framework.dll
+C:\Users\simon\source\repos\Practicum1\TestBase\bin\Debug\Utils.dll
+C:\Users\simon\source\repos\Practicum1\TestBase\bin\Debug\Utils.pdb
+C:\Users\simon\source\repos\Practicum1\TestBase\bin\Debug\nunit.framework.pdb
+C:\Users\simon\source\repos\Practicum1\TestBase\bin\Debug\nunit.framework.xml
+C:\Users\simon\source\repos\Practicum1\TestBase\obj\Debug\TestBase.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\Practicum1\TestBase\obj\Debug\TestBase.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Practicum1\TestBase\obj\Debug\TestBase.csproj.CopyComplete
+C:\Users\simon\source\repos\Practicum1\TestBase\obj\Debug\TestBase.dll
+C:\Users\simon\source\repos\Practicum1\TestBase\obj\Debug\TestBase.pdb

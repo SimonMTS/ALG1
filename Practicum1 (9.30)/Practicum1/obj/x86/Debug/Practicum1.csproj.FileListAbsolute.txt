@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\Practicum1\Practicum1\bin\Debug\Practicum1.exe
+C:\Users\simon\source\repos\Practicum1\Practicum1\bin\Debug\Practicum1.pdb
+C:\Users\simon\source\repos\Practicum1\Practicum1\bin\Debug\nunit.framework.dll
+C:\Users\simon\source\repos\Practicum1\Practicum1\bin\Debug\Utils.dll
+C:\Users\simon\source\repos\Practicum1\Practicum1\bin\Debug\Utils.pdb
+C:\Users\simon\source\repos\Practicum1\Practicum1\bin\Debug\nunit.framework.pdb
+C:\Users\simon\source\repos\Practicum1\Practicum1\bin\Debug\nunit.framework.xml
+C:\Users\simon\source\repos\Practicum1\Practicum1\obj\x86\Debug\Practicum1.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\Practicum1\Practicum1\obj\x86\Debug\Practicum1.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Practicum1\Practicum1\obj\x86\Debug\Practicum1.csproj.CopyComplete
+C:\Users\simon\source\repos\Practicum1\Practicum1\obj\x86\Debug\Practicum1.exe
+C:\Users\simon\source\repos\Practicum1\Practicum1\obj\x86\Debug\Practicum1.pdb

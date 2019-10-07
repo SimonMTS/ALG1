@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\obj\Debug\Practicum5WorkshopTests.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\obj\Debug\Practicum5WorkshopTests.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\Practicum5WorkshopTests.dll
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\Practicum5WorkshopTests.pdb
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\nunit.framework.dll
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\Practicum5.exe
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\TestBase.dll
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\Utils.dll
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\TestBase.pdb
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\Utils.pdb
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\Practicum5.pdb
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\nunit.framework.pdb
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\bin\Debug\nunit.framework.xml
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\obj\Debug\Practicum5WorkshopTests.csproj.CopyComplete
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\obj\Debug\Practicum5WorkshopTests.dll
+C:\Users\simon\source\repos\Practicum5\Practicum5WorkshopTests\obj\Debug\Practicum5WorkshopTests.pdb

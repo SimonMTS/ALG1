@@ -1,0 +1,15 @@
+C:\Users\Vincent\source\repos\out\assignments\Practicum4\Practicum4\obj\x86\Debug\Practicum4.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\out\assignments\Practicum4\Practicum4\obj\x86\Debug\Practicum4.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Practicum4\Practicum4\bin\Debug\Practicum4.exe
+C:\Users\simon\source\repos\Practicum4\Practicum4\bin\Debug\Practicum4.pdb
+C:\Users\simon\source\repos\Practicum4\Practicum4\bin\Debug\nunit.framework.dll
+C:\Users\simon\source\repos\Practicum4\Practicum4\bin\Debug\Practicum1.exe
+C:\Users\simon\source\repos\Practicum4\Practicum4\bin\Debug\Utils.dll
+C:\Users\simon\source\repos\Practicum4\Practicum4\bin\Debug\Utils.pdb
+C:\Users\simon\source\repos\Practicum4\Practicum4\bin\Debug\nunit.framework.pdb
+C:\Users\simon\source\repos\Practicum4\Practicum4\bin\Debug\nunit.framework.xml
+C:\Users\simon\source\repos\Practicum4\Practicum4\obj\x86\Debug\Practicum4.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\Practicum4\Practicum4\obj\x86\Debug\Practicum4.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Practicum4\Practicum4\obj\x86\Debug\Practicum4.csproj.CopyComplete
+C:\Users\simon\source\repos\Practicum4\Practicum4\obj\x86\Debug\Practicum4.exe
+C:\Users\simon\source\repos\Practicum4\Practicum4\obj\x86\Debug\Practicum4.pdb
